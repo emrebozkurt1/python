@@ -1,8 +1,8 @@
-kelime = input("Bir Kelime Giriniz : ")
-a = int(input("Başlangıç Sayısını Giriniz : "))
-b = int(input("Bitiş Sayısını Giriniz : "))
+kelime = input("Bir Kelime Gir : ")
+a = int(input("Başlangıç Sayısını Gir : "))
+b = int(input("Bitiş Sayısını Gir : "))
 if a > len(kelime) or b > len(kelime):
-    print("Kelimeden Büyük Değer Girilemez!")
+    print("Kelimeden Büyük Değer Gir!")
 else:
     if a <= 0 or b <= 0:
         print("Sıfır Girilemez!")
