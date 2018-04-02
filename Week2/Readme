@@ -1,4 +1,4 @@
-HW-1.py 'sayi' ve 'toplam' adinda iki degisken tanimladim. Daha sonra 'a' dizisi tanimlayip 100'e kadar olan sayilari ekledim. Daha sonra bu sayilari 'shuffle' ile karistirdim. Bir dongu olustutup bu sayilari toplattim. Karisan sayilarda fazladan bir sayi oldugu icin bu toplamdan fazla cikti. Cikan sayiyi toplamdan cikararak duplicate sayiyi buldum.
+HW-1.py 'sayi' ve 'toplam' adinda iki degisken tanimladim. Daha sonra 'a' dizisi tanimlayip 100'e kadar olan sayilari ekledim. Daha sonra bu sayilari 'shuffle' ile karistirdim. Bir dongu olusturup bu sayilari toplattim. Karisan sayilarda fazladan bir sayi oldugu icin bu toplamdan fazla cikti. Cikan sayiyi toplamdan cikararak duplicate sayiyi buldum.
 
 HW-1,2.py (2'nci yöntem) İki tane dizi actim. İlk dizide sayilari karistirarak sayilari diziye ekledim. Ikinci diziye de bu sayilarin olup olmadigini kontrol ediyorum. Birinci dizide olan sayilarin yeri ikinci sayida da dolduruluyor. Hepsi doldurulunca geriye bir tane fazla sayi kaliyor. Bu fazla sayi duplicate olmus oluyor.
 
