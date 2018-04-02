@@ -1,7 +1,7 @@
 for i in range(0,3) :
-    birincisayi = int(input("Birinci sayıyı giriniz:"))
-    ikincisayi = int(input("İkinci sayiyi giriniz:"))
-    islem = input("Yapacağınız işlemi seçiniz(+,-,/,*):")
+    birincisayi = int(input("Birinci sayıyı gir:"))
+    ikincisayi = int(input("İkinci sayiyi gir:"))
+    islem = input("Yapacağınız işlemi seç(+,-,/,*):")
     if islem == "+" :
         print (birincisayi+ikincisayi)
     elif islem == "-" :
@@ -13,4 +13,4 @@ for i in range(0,3) :
     elif islem == "exit":
         break
     else:
-        print("Lütfen belirtilen operatörlerden birini giriniz")  
+        print("Lütfen belirtilen operatörlerden birini gir")  
