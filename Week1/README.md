@@ -1,9 +1,9 @@
-# HW1 - Basit Hesap Makinesi ;
+# HW1 -  Hesap Makinesi ;
 Ilk satirda for döngüsünü tanımlayarak değerlerini belirtiyoruz. Burada 0,3 degerleri yazilan kodun 3 kere calismasini saglamaktadir.
 2-3-4  kullanicinin iki sayi ve bir islem girmesini sağlıyoruz.
 5-7-9-11 kullanıcının hangi islem operatorunu sectigine gore isleme gecis yapacagiz.
 6-8-10-12.secilen operatore gore islemi gerceklestiriyoruz.
-13-14 kullanici operator secmek yerine 'exit' yazarsa donguden cikmasini sagliyoruz. Bunun icin 'break' komutunu kullaniyoruz.
+13-14 kullanici operator secmek yerine 'exit' yazarsa döngüden cikmasini sagliyoruz. Bunun icin 'break' komutunu kullaniyoruz.
 15.-16. kullanicinin operator veya exit disinda farkli bir deger yazmasi sonucunda bir hata mesaji donmesini sagliyoruz.
 
 
