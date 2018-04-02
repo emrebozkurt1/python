@@ -1,4 +1,4 @@
-a = input("Bir kelime giriniz:")
+a = input("Bir kelime gir:")
 if len(a) % 2 == 0:
     print("palindrom degildir")
 else:
