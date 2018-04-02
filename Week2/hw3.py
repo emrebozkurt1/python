@@ -1,5 +1,5 @@
 a=[]
-s= input("Bir cümle ya da kelime giriniz:")
+s= input("Bir cümle ya da kelime gir:")
 s = s.lower()
 tmp=[None] * len(s)
 i = 0
